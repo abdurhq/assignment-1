@@ -1,0 +1,31 @@
+.hi{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    
+    
+    
+}
+
+ section button{
+    width:90px;
+    height: 40px;
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    text-align: center;
+} 
+.one{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    background-color: #C6E4D6;
+    border-radius: 10px;
+
+}
+.button{
+    background-color: #006A50;
+    border-radius: 5px;
+    padding: 5px;
+    color: #CCCCCC;
+}
